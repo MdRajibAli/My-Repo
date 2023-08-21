@@ -1,0 +1,26 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "author": "mdrajib.ali",
+        "description": "",
+        "groups": [],
+        "lineNo": 0,
+        "name": "TC",
+        "referece": "",
+        "resultFileName": "TC",
+        "testSuiteName": "TS",
+        "sign": "",
+        "executedOn": "Local"
+      },
+      "dependsOn": [],
+      "startTime": 0,
+      "duration": 7969000000,
+      "result": "pass",
+      "passPer": 0
+    }
+  ]
+}
